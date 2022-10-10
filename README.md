@@ -1,6 +1,6 @@
 # Hi there 👋
 ## ~ $ whoami
-I'm a french student in computer science ! Working on various project, curious to learn, self taught and passionnated. 
+I'm a french student in computer science ! Working on various project, curious to learn, self-taught and passionnated. I'm currently focusing on Rust !
 ## ~ $ ls lolo-pixel/langages/
 ___
 ### System
