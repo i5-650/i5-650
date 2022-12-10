@@ -58,7 +58,6 @@ ___
 - write a malware in rust *to-start*
 ## ~ $ cat TODO
 ___
-- portfolio
 - web-site to visualize exif (linked to rusty-exif)
 - learn SurrealDB
 - learn Arduino
