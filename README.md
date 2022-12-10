@@ -50,12 +50,12 @@ ___
 
 ## ~ $ git status
 ___
-![Github Stats](https://github-readme-stats.vercel.app/api?username=loic-prn&count_private=false&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loic-prn&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=loic-prn&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loic-prn&langs_count=10)
 ## ~ $ top
 ___
 - rusty-exif *on-going*
-- write a malware in rust *to-start*
+- write a malware in rust: bernard-lhermite (yes) *to-start*
 ## ~ $ cat TODO
 ___
 - web-site to visualize exif (linked to rusty-exif)
