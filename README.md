@@ -1,7 +1,7 @@
 # Hi there 👋
 ## ~ $ whoami
 I'm a french student in computer science ! Working on various project, curious to learn, self-taught and passionnated. I'm currently focusing on Rust !
-## ~ $ ls lolo-pixel/langages/
+## ~ $ ls lolo-pixel/lang/
 ___
 ### System
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
