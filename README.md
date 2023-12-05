@@ -1,7 +1,7 @@
 # Hi there 👋
 ## ~ $ whoami
 I'm a french student in computer science ! Working on various project, curious to learn, self-taught and passionnated. I'm currently focusing on Rust !
-## ~ $ ls lolo-pixel/lang/
+## ~ $ ls i5-650/lang/
 ___
 ### System
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -50,8 +50,8 @@ ___
 
 ## ~ $ git status
 ___
-![Github Stats](https://github-readme-stats.vercel.app/api?username=loic-prn&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loic-prn&langs_count=10)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=loici5-650&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5-650&langs_count=10)
 ## ~ $ top
 ___
 - rusty-exif *on-going*
