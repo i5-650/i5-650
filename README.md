@@ -1,9 +1,10 @@
-<!-- center the hi and the view counter-->
-<h1 style="text-align: center;"> Hi there 👋 </h1>
-<a style="display: block; text-align: center;" href="#"><img src="https://komarev.com/ghpvc/?username=i5-650"/></a>
+<div>
+    <h1> Hi there 👋 </h1>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=i5-650"/></a>
+</div>
 
 ## 🙋‍♂️ whoami
-I'm a french student in computer science ! Passionate about programming, I'm always looking for new things to learn. I'm also interested in cybersecurity and I'm learning about it in my free time. 
+I'm a french student in computer science ! Passionate about programming, I'm always looking for new things to learn. I'm also interested in cybersecurity and I'm learning about it in my free time.
 
 ## 📚 Technology Stack
 ### 🧑‍💻 Programming and Markup Languages
@@ -25,7 +26,7 @@ ___
 <a href="https://github.com/search?q=user%3Ai5-650+language%3Agraphql"><img alt="Graphql" src="https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white"></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 
-### 🧳 Frameworks & Libraries 
+### 🧳 Frameworks & Libraries
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white"></a>
@@ -37,7 +38,6 @@ ___
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white"></a>
-<a href="#"><img alt="JWT" src="https://img.shields.io/badge/-JWT-black?logo=JSON%20web%20tokens&logoColor=white"></a>
 
 ### 🗂️ Databases & Cloud
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -76,6 +76,8 @@ ___
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white"></a>
 <a href="#"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0"></a>
 <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white"></a>
+<a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Raspbian-A22846?logo=raspberry-pi&logoColor=white"></a>
+<a href="#"><img alt="Alpine" >
 
 ## 📈 Stats
 ___
