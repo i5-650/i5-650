@@ -4,7 +4,7 @@
 </div>
 
 ## 🙋‍♂️ whoami
-I'm a french student in computer science ! Passionate about programming, I'm always looking for new things to learn. I'm also interested in cybersecurity and I'm learning about it in my free time.
+I'm a french student in computer science ! Passionate about programming and computer science in general, I'm always looking for new things to learn. I'm also interested in cybersecurity and I'm learning about it in my free time.
 
 ## 📚 Technology Stack
 ### 🧑‍💻 Programming and Markup Languages
@@ -77,21 +77,20 @@ ___
 <a href="#"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0"></a>
 <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white"></a>
 <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Raspbian-A22846?logo=raspberry-pi&logoColor=white"></a>
-<a href="#"><img alt="Alpine" >
+<a href="#"><img alt="Alpine" src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff">
 
 ## 📈 Stats
-___
-### 🔥 Streaks
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=i5-650&theme=blue-navy" alt="GitHub Streak" /></a>
 
-### 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=i5-650&show_icons=true&theme=tokyonight"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i5-650&layout=compact&theme=tokyonight"/></a>
+![Metrics](/metrics.profile.header.svg)
+![Metrics](/metrics.plugin.languages.svg)
+![Metrics](/metrics.profile.achievements.svg)
 
 ## 🔭 What's comming next ?
 ___
 
 - [ ] Learn more about cybersecurity
 - [ ] Contribute to open-source projects
-- [ ] Learn Go
 - [ ] Lean more about DevOps
+    - [ ] Learn K8s
+    - [ ] use more jenkins
+    - [ ] have a DevOps repo for all my templates
