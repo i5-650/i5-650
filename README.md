@@ -10,6 +10,7 @@ I'm a french student in computer science ! Passionate about programming and comp
 ### 🧑‍💻 Programming and Markup Languages
 ___
 <a href="https://github.com/search?q=user%3Ai5-650+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-121011?logo=rust&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Ai5-650+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ai5-650+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ai5-650+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ai5-650+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -37,7 +38,11 @@ ___
 <a href="#"><img alt="JWT" src="https://img.shields.io/badge/-JWT-black?logo=JSON%20web%20tokens&logoColor=white"></a>
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff"></a>
+<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"></a>
+<a href="#"><img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff"></a>
 
 ### 🗂️ Databases & Cloud
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -52,6 +57,10 @@ ___
 <a href="#"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white"></a>
 <a href="#"><img alt="ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=EE0000"></a>
 <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-3E863D?logo=podman&logoColor=white"></a>
+<a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"></a>
+<a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"></a>
+<a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
 
 ### 🛠️ Tools
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
@@ -59,9 +68,11 @@ ___
 <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white"></a>
 <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
+<a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Sonar Cloud" src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff"></a>
 
 
 ### ⚙️ Operating Systems
@@ -94,3 +105,4 @@ ___
     - [ ] Learn K8s
     - [ ] use more jenkins
     - [ ] have a DevOps repo for all my templates
+- [ ] Write more on my blog
