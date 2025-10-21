@@ -4,10 +4,13 @@
 </div>
 
 ## 🙋‍♂️ whoami
+
 I'm a french student in computer science ! Passionate about programming and computer science in general, I'm always looking for new things to learn. I'm also interested in cybersecurity and I'm learning about it in my free time.
 
 ## 📚 Technology Stack
+
 ### 🧑‍💻 Programming and Markup Languages
+
 ___
 <a href="https://github.com/search?q=user%3Ai5-650+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-121011?logo=rust&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Ai5-650+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"></a>
@@ -28,6 +31,7 @@ ___
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 
 ### 🧳 Frameworks & Libraries
+
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white"></a>
@@ -45,6 +49,7 @@ ___
 <a href="#"><img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff"></a>
 
 ### 🗂️ Databases & Cloud
+
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"></a>
@@ -63,6 +68,7 @@ ___
 <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
 
 ### 🛠️ Tools
+
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white"></a>
@@ -74,8 +80,8 @@ ___
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Sonar Cloud" src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff"></a>
 
-
 ### ⚙️ Operating Systems
+
 ___
 <a href="#"><img alt="Majaro" src="https://img.shields.io/badge/Manjaro-35BF5C?logo=Manjaro&logoColor=white"></a>
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white"></a>
@@ -95,14 +101,3 @@ ___
 ![Metrics](/metrics.profile.header.svg)
 ![Metrics](/metrics.plugin.languages.svg)
 ![Metrics](/metrics.profile.achievements.svg)
-
-## 🔭 What's comming next ?
-___
-
-- [ ] Learn more about cybersecurity
-- [ ] Contribute to open-source projects
-- [ ] Lean more about DevOps
-    - [ ] Learn K8s
-    - [ ] use more jenkins
-    - [ ] have a DevOps repo for all my templates
-- [ ] Write more on my blog
